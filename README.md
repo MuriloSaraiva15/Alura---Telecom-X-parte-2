@@ -4,7 +4,7 @@
 
 Este projeto foca na análise de dados de uma empresa de telecomunicações (Telecom X) para identificar os principais fatores que levam à evasão de clientes (churn). Utilizando técnicas de pré-processamento de dados e modelagem de machine learning, o objetivo é construir e avaliar modelos preditivos capazes de prever quais clientes têm maior probabilidade de cancelar seus serviços. Com base nos insights gerados pelos modelos, são propostas estratégias de retenção de clientes.
 
-Este notebook, TelecomX_parte2(2).ipynb, representa a segunda fase do desafio, focada na preparação dos dados para modelagem, treinamento, avaliação e interpretação de modelos preditivos.
+Este notebook, TelecomX_parte2.ipynb, representa a segunda fase do desafio, focada na preparação dos dados para modelagem, treinamento, avaliação e interpretação de modelos preditivos.
 
 📁 Estrutura do Projeto
 
