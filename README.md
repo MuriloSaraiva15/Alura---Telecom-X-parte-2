@@ -8,27 +8,26 @@ Este notebook, TelecomX_parte2(2).ipynb, representa a segunda fase do desafio, f
 
 📁 Estrutura do Projeto
 
-.
 ├── 📁 data
 ├── 📓 TelecomX_parte2.ipynb
 └── 📖 README.md
 
-    data: possui dados limpos.csv. O conjunto de dados de entrada, já tratado e organizado na primeira parte do desafio.
+data: possui dados limpos.csv. O conjunto de dados de entrada, já tratado e organizado na primeira parte do desafio.
 
-    TelecomX_parte2.ipynb: O Jupyter Notebook contendo todo o código Python para a análise, desde a preparação dos dados até a avaliação dos modelos e a geração de insights.
+TelecomX_parte2.ipynb: O Jupyter Notebook contendo todo o código Python para a análise, desde a preparação dos dados até a avaliação dos modelos e a geração de insights.
 
-    README.md: Este arquivo.
+README.md: Este arquivo.
 
 🛠️ Metodologia Aplicada
 
 O projeto seguiu uma abordagem estruturada de análise de dados e machine learning:
 
-    🧹 Carregamento e Preparação dos Dados:
-
+   🧹 Carregamento e Preparação dos Dados:
+        
         O arquivo CSV com dados previamente tratados foi carregado.
-
+      
         Colunas de identificação, como customerID, que não agregam valor preditivo, foram eliminadas.
-
+        
         Variáveis categóricas foram transformadas em formato numérico utilizando a técnica de one-hot encoding para compatibilidade com os algoritmos.
 
         Foi verificado o desbalanceamento de classes, constatando que a proporção de clientes que evadiram (churn) é de aproximadamente 26,6%.
