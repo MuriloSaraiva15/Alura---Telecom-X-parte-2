@@ -16,7 +16,6 @@ data: possui dados limpos.csv. O conjunto de dados de entrada, já tratado e org
 
 TelecomX_parte2.ipynb: O Jupyter Notebook contendo todo o código Python para a análise, desde a preparação dos dados até a avaliação dos modelos e a geração de insights.
 
-README.md: Este arquivo.
 
 🛠️ Metodologia Aplicada
 
