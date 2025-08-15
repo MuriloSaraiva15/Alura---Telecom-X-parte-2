@@ -9,7 +9,9 @@ Este notebook, TelecomX_parte2.ipynb, representa a segunda fase do desafio, foca
 📁 Estrutura do Projeto
 
 ├── 📁 data
+
 ├── 📓 TelecomX_parte2.ipynb
+
 └── 📖 README.md
 
 data: possui dados limpos.csv. O conjunto de dados de entrada, já tratado e organizado na primeira parte do desafio.
